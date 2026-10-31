@@ -1,0 +1,637 @@
+2026-10-31 23:34:00,347 | INFO | Logging started: log_20261031_233400.txt
+2026-10-31 23:34:00,347 | INFO | Total Companies (>= 500) [Default: 500]:
+2026-10-31 23:34:00,724 | INFO | Minimum Employees (>= 100) [Default: 100]:
+2026-10-31 23:34:01,014 | INFO | Maximum Employees [Default: 300]:
+2026-10-31 23:34:01,244 | INFO | Random Seed [Default: 42]:
+2026-10-31 23:34:01,857 | INFO | Generating Company 1/500: Abbott-Munoz
+2026-10-31 23:34:01,878 | INFO | Generating Company 2/500: Acosta Inc
+2026-10-31 23:34:01,897 | INFO | Generating Company 3/500: Adams, Christian and Rivas
+2026-10-31 23:34:01,915 | INFO | Generating Company 4/500: Adams, Zuniga and Wong
+2026-10-31 23:34:01,924 | INFO | Generating Company 5/500: Allen-Allen
+2026-10-31 23:34:01,939 | INFO | Generating Company 6/500: Alvarado, Miller and Patterson
+2026-10-31 23:34:01,944 | INFO | Generating Company 7/500: Alvarez, Joseph and West
+2026-10-31 23:34:01,948 | INFO | Generating Company 8/500: Anderson Group
+2026-10-31 23:34:01,967 | INFO | Generating Company 9/500: Anderson, Roberts and Gilmore
+2026-10-31 23:34:01,970 | INFO | Generating Company 10/500: Anderson-Bailey
+2026-10-31 23:34:01,973 | INFO | Generating Company 11/500: Anderson-Bell
+2026-10-31 23:34:01,976 | INFO | Generating Company 12/500: Andrews, Higgins and Carter
+2026-10-31 23:34:01,979 | INFO | Generating Company 13/500: Armstrong-Andrews
+2026-10-31 23:34:01,999 | INFO | Generating Company 14/500: Arnold Ltd
+2026-10-31 23:34:02,017 | INFO | Generating Company 15/500: Arnold and Sons
+2026-10-31 23:34:02,030 | INFO | Generating Company 16/500: Arroyo, Miller and Tucker
+2026-10-31 23:34:02,044 | INFO | Generating Company 17/500: Atkins PLC
+2026-10-31 23:34:02,051 | INFO | Generating Company 18/500: Austin, Day and Johnson
+2026-10-31 23:34:02,069 | INFO | Generating Company 19/500: Avery, Horton and Fernandez
+2026-10-31 23:34:02,080 | INFO | Generating Company 20/500: Bailey-Cook
+2026-10-31 23:34:02,095 | INFO | Generating Company 21/500: Baird-Sanchez
+2026-10-31 23:34:02,099 | INFO | Generating Company 22/500: Baker and Sons
+2026-10-31 23:34:02,101 | INFO | Generating Company 23/500: Baker, Mason and White
+2026-10-31 23:34:02,119 | INFO | Generating Company 24/500: Barnes PLC
+2026-10-31 23:34:02,141 | INFO | Generating Company 25/500: Barnett, Rogers and Snyder
+2026-10-31 23:34:02,148 | INFO | Generating Company 26/500: Bass PLC
+2026-10-31 23:34:02,165 | INFO | Generating Company 27/500: Baxter Inc
+2026-10-31 23:34:02,183 | INFO | Generating Company 28/500: Bean LLC
+2026-10-31 23:34:02,186 | INFO | Generating Company 29/500: Beard, Peters and Black
+2026-10-31 23:34:02,193 | INFO | Generating Company 30/500: Becker, Taylor and Davis
+2026-10-31 23:34:02,213 | INFO | Generating Company 31/500: Bell-Lane
+2026-10-31 23:34:02,225 | INFO | Generating Company 32/500: Beltran, Lozano and Mcgee
+2026-10-31 23:34:02,230 | INFO | Generating Company 33/500: Bennett Group
+2026-10-31 23:34:02,234 | INFO | Generating Company 34/500: Bentley, Byrd and Orr
+2026-10-31 23:34:02,248 | INFO | Generating Company 35/500: Bentley, Lynch and Henderson
+2026-10-31 23:34:02,258 | INFO | Generating Company 36/500: Berry-Mckinney
+2026-10-31 23:34:02,266 | INFO | Generating Company 37/500: Bishop-Goodwin
+2026-10-31 23:34:02,270 | INFO | Generating Company 38/500: Blackwell LLC
+2026-10-31 23:34:02,291 | INFO | Generating Company 39/500: Blair PLC
+2026-10-31 23:34:02,305 | INFO | Generating Company 40/500: Blake Group
+2026-10-31 23:34:02,326 | INFO | Generating Company 41/500: Blake and Sons
+2026-10-31 23:34:02,329 | INFO | Generating Company 42/500: Booker, Jones and Harrington
+2026-10-31 23:34:02,342 | INFO | Generating Company 43/500: Boone LLC
+2026-10-31 23:34:02,345 | INFO | Generating Company 44/500: Boone-Simmons
+2026-10-31 23:34:02,356 | INFO | Generating Company 45/500: Bowen Group
+2026-10-31 23:34:02,359 | INFO | Generating Company 46/500: Branch, Torres and Oliver
+2026-10-31 23:34:02,364 | INFO | Generating Company 47/500: Brennan, Wallace and Benson
+2026-10-31 23:34:02,370 | INFO | Generating Company 48/500: Brennan-Johnson
+2026-10-31 23:34:02,372 | INFO | Generating Company 49/500: Bright-Francis
+2026-10-31 23:34:02,376 | INFO | Generating Company 50/500: Brock-Mcdonald
+2026-10-31 23:34:02,378 | INFO | Generating Company 51/500: Brooks, Lam and Hayes
+2026-10-31 23:34:02,380 | INFO | Generating Company 52/500: Brown Group
+2026-10-31 23:34:02,389 | INFO | Generating Company 53/500: Brown, Harris and Dougherty
+2026-10-31 23:34:02,403 | INFO | Generating Company 54/500: Brown, Romero and Collins
+2026-10-31 23:34:02,417 | INFO | Generating Company 55/500: Brown, Valdez and Lucas
+2026-10-31 23:34:02,433 | INFO | Generating Company 56/500: Brown-Copeland
+2026-10-31 23:34:02,453 | INFO | Generating Company 57/500: Brown-Shaw
+2026-10-31 23:34:02,474 | INFO | Generating Company 58/500: Brown-Wall
+2026-10-31 23:34:02,496 | INFO | Generating Company 59/500: Bruce-Gonzalez
+2026-10-31 23:34:02,502 | INFO | Generating Company 60/500: Bruce-Villegas
+2026-10-31 23:34:02,521 | INFO | Generating Company 61/500: Bryan, Smith and Booth
+2026-10-31 23:34:02,528 | INFO | Generating Company 62/500: Bryant Group
+2026-10-31 23:34:02,545 | INFO | Generating Company 63/500: Buchanan LLC
+2026-10-31 23:34:02,547 | INFO | Generating Company 64/500: Burch-Montoya
+2026-10-31 23:34:02,565 | INFO | Generating Company 65/500: Burgess-Thompson
+2026-10-31 23:34:02,567 | INFO | Generating Company 66/500: Burke, Martinez and Riggs
+2026-10-31 23:34:02,571 | INFO | Generating Company 67/500: Burns, Hernandez and Ryan
+2026-10-31 23:34:02,576 | INFO | Generating Company 68/500: Burton Ltd
+2026-10-31 23:34:02,593 | INFO | Generating Company 69/500: Butler, Beck and Miller
+2026-10-31 23:34:02,596 | INFO | Generating Company 70/500: Byrd-Le
+2026-10-31 23:34:02,614 | INFO | Generating Company 71/500: Campbell-Clark
+2026-10-31 23:34:02,617 | INFO | Generating Company 72/500: Carlson, Hooper and Wall
+2026-10-31 23:34:02,641 | INFO | Generating Company 73/500: Carlson-Cruz
+2026-10-31 23:34:02,645 | INFO | Generating Company 74/500: Carlson-Smith
+2026-10-31 23:34:02,657 | INFO | Generating Company 75/500: Carroll, Sullivan and Bass
+2026-10-31 23:34:02,667 | INFO | Generating Company 76/500: Carter Inc
+2026-10-31 23:34:02,673 | INFO | Generating Company 77/500: Castaneda-Ashley
+2026-10-31 23:34:02,684 | INFO | Generating Company 78/500: Castaneda-Rodriguez
+2026-10-31 23:34:02,689 | INFO | Generating Company 79/500: Chambers and Sons
+2026-10-31 23:34:02,702 | INFO | Generating Company 80/500: Chandler-Edwards
+2026-10-31 23:34:02,719 | INFO | Generating Company 81/500: Chapman and Sons
+2026-10-31 23:34:02,736 | INFO | Generating Company 82/500: Choi, Garcia and Farmer
+2026-10-31 23:34:02,749 | INFO | Generating Company 83/500: Christensen PLC
+2026-10-31 23:34:02,752 | INFO | Generating Company 84/500: Clark, Guerrero and Moore
+2026-10-31 23:34:02,754 | INFO | Generating Company 85/500: Coffey-Phillips
+2026-10-31 23:34:02,775 | INFO | Generating Company 86/500: Cole, Glass and Cunningham
+2026-10-31 23:34:02,778 | INFO | Generating Company 87/500: Cole-Palmer
+2026-10-31 23:34:02,793 | INFO | Generating Company 88/500: Collier-Gillespie
+2026-10-31 23:34:02,802 | INFO | Generating Company 89/500: Collins Group
+2026-10-31 23:34:02,815 | INFO | Generating Company 90/500: Combs Ltd
+2026-10-31 23:34:02,833 | INFO | Generating Company 91/500: Conner, Li and Santiago
+2026-10-31 23:34:02,852 | INFO | Generating Company 92/500: Cook and Sons
+2026-10-31 23:34:02,854 | INFO | Generating Company 93/500: Cook-Hines
+2026-10-31 23:34:02,856 | INFO | Generating Company 94/500: Cooper Ltd
+2026-10-31 23:34:02,858 | INFO | Generating Company 95/500: Cordova Group
+2026-10-31 23:34:02,863 | INFO | Generating Company 96/500: Cortez LLC
+2026-10-31 23:34:02,873 | INFO | Generating Company 97/500: Cox LLC
+2026-10-31 23:34:02,880 | INFO | Generating Company 98/500: Crosby-Ramirez
+2026-10-31 23:34:02,890 | INFO | Generating Company 99/500: Curry Inc
+2026-10-31 23:34:02,895 | INFO | Generating Company 100/500: Daniels, Adkins and Brown
+2026-10-31 23:34:02,909 | INFO | Generating Company 101/500: Davis Group
+2026-10-31 23:34:02,926 | INFO | Generating Company 102/500: Davis Inc
+2026-10-31 23:34:02,943 | INFO | Generating Company 103/500: Davis Ltd
+2026-10-31 23:34:02,964 | INFO | Generating Company 104/500: Davis PLC
+2026-10-31 23:34:02,971 | INFO | Generating Company 105/500: Davis and Sons
+2026-10-31 23:34:02,992 | INFO | Generating Company 106/500: Davis-Gregory
+2026-10-31 23:34:02,997 | INFO | Generating Company 107/500: Davis-Lewis
+2026-10-31 23:34:03,007 | INFO | Generating Company 108/500: Davis-Lozano
+2026-10-31 23:34:03,031 | INFO | Generating Company 109/500: Dean-Jimenez
+2026-10-31 23:34:03,034 | INFO | Generating Company 110/500: Diaz Inc
+2026-10-31 23:34:03,036 | INFO | Generating Company 111/500: Diaz, Anderson and Browning
+2026-10-31 23:34:03,050 | INFO | Generating Company 112/500: Diaz, Gibbs and Smith
+2026-10-31 23:34:03,054 | INFO | Generating Company 113/500: Diaz-Ball
+2026-10-31 23:34:03,058 | INFO | Generating Company 114/500: Dickson-Brady
+2026-10-31 23:34:03,061 | INFO | Generating Company 115/500: Dixon Inc
+2026-10-31 23:34:03,080 | INFO | Generating Company 116/500: Donovan-Harris
+2026-10-31 23:34:03,096 | INFO | Generating Company 117/500: Downs, Morris and Maddox
+2026-10-31 23:34:03,099 | INFO | Generating Company 118/500: Doyle Ltd
+2026-10-31 23:34:03,109 | INFO | Generating Company 119/500: Dudley Group
+2026-10-31 23:34:03,124 | INFO | Generating Company 120/500: Duran LLC
+2026-10-31 23:34:03,141 | INFO | Generating Company 121/500: Duran, Obrien and Gibbs
+2026-10-31 23:34:03,143 | INFO | Generating Company 122/500: Dyer, Potter and Mack
+2026-10-31 23:34:03,147 | INFO | Generating Company 123/500: Edwards, Baker and Anderson
+2026-10-31 23:34:03,161 | INFO | Generating Company 124/500: Edwards-Scott
+2026-10-31 23:34:03,177 | INFO | Generating Company 125/500: Erickson and Sons
+2026-10-31 23:34:03,179 | INFO | Generating Company 126/500: Estrada, Williams and Foster
+2026-10-31 23:34:03,183 | INFO | Generating Company 127/500: Estrada-Nolan
+2026-10-31 23:34:03,186 | INFO | Generating Company 128/500: Evans, Hayden and Vaughn
+2026-10-31 23:34:03,191 | INFO | Generating Company 129/500: Evans, Stewart and Walton
+2026-10-31 23:34:03,195 | INFO | Generating Company 130/500: Farmer, Dorsey and Bell
+2026-10-31 23:34:03,208 | INFO | Generating Company 131/500: Fernandez and Sons
+2026-10-31 23:34:03,210 | INFO | Generating Company 132/500: Fernandez, Kim and George
+2026-10-31 23:34:03,221 | INFO | Generating Company 133/500: Ferrell, Jones and Lewis
+2026-10-31 23:34:03,225 | INFO | Generating Company 134/500: Ferrell, Rice and Maddox
+2026-10-31 23:34:03,227 | INFO | Generating Company 135/500: Figueroa PLC
+2026-10-31 23:34:03,237 | INFO | Generating Company 136/500: Fisher, Wilson and Brown
+2026-10-31 23:34:03,259 | INFO | Generating Company 137/500: Flowers, Martin and Kelly
+2026-10-31 23:34:03,268 | INFO | Generating Company 138/500: Ford-Spencer
+2026-10-31 23:34:03,281 | INFO | Generating Company 139/500: Frank-Bradley
+2026-10-31 23:34:03,300 | INFO | Generating Company 140/500: Frazier Inc
+2026-10-31 23:34:03,318 | INFO | Generating Company 141/500: Freeman-Chang
+2026-10-31 23:34:03,339 | INFO | Generating Company 142/500: Fuller, Ingram and Moss
+2026-10-31 23:34:03,351 | INFO | Generating Company 143/500: Gallegos, Adams and White
+2026-10-31 23:34:03,360 | INFO | Generating Company 144/500: Galloway-Wyatt
+2026-10-31 23:34:03,362 | INFO | Generating Company 145/500: Garcia LLC
+2026-10-31 23:34:03,367 | INFO | Generating Company 146/500: Garcia, Humphrey and Baker
+2026-10-31 23:34:03,372 | INFO | Generating Company 147/500: Garcia, Martin and Jenkins
+2026-10-31 23:34:03,375 | INFO | Generating Company 148/500: Garcia-James
+2026-10-31 23:34:03,380 | INFO | Generating Company 149/500: Garcia-Jennings
+2026-10-31 23:34:03,395 | INFO | Generating Company 150/500: Garcia-Lozano
+2026-10-31 23:34:03,400 | INFO | Generating Company 151/500: Garcia-Smith
+2026-10-31 23:34:03,415 | INFO | Generating Company 152/500: Gardner, Robinson and Lawrence
+2026-10-31 23:34:03,418 | INFO | Generating Company 153/500: Garner-Thornton
+2026-10-31 23:34:03,438 | INFO | Generating Company 154/500: Gay Inc
+2026-10-31 23:34:03,462 | INFO | Generating Company 155/500: George Group
+2026-10-31 23:34:03,466 | INFO | Generating Company 156/500: Gibson Ltd
+2026-10-31 23:34:03,478 | INFO | Generating Company 157/500: Gibson-Morris
+2026-10-31 23:34:03,481 | INFO | Generating Company 158/500: Gilbert PLC
+2026-10-31 23:34:03,491 | INFO | Generating Company 159/500: Gilbert-Bullock
+2026-10-31 23:34:03,506 | INFO | Generating Company 160/500: Gomez-Jenkins
+2026-10-31 23:34:03,511 | INFO | Generating Company 161/500: Gonzales-Harrison
+2026-10-31 23:34:03,524 | INFO | Generating Company 162/500: Gonzalez Group
+2026-10-31 23:34:03,528 | INFO | Generating Company 163/500: Good-Hodges
+2026-10-31 23:34:03,541 | INFO | Generating Company 164/500: Gould, Marshall and Scott
+2026-10-31 23:34:03,546 | INFO | Generating Company 165/500: Graham Group
+2026-10-31 23:34:03,564 | INFO | Generating Company 166/500: Graham, Olsen and Costa
+2026-10-31 23:34:03,586 | INFO | Generating Company 167/500: Gray Group
+2026-10-31 23:34:03,599 | INFO | Generating Company 168/500: Gray-Mayo
+2026-10-31 23:34:03,613 | INFO | Generating Company 169/500: Green-Wright
+2026-10-31 23:34:03,634 | INFO | Generating Company 170/500: Gregory-Watkins
+2026-10-31 23:34:03,652 | INFO | Generating Company 171/500: Guerrero Inc
+2026-10-31 23:34:03,672 | INFO | Generating Company 172/500: Guerrero, Peck and Coleman
+2026-10-31 23:34:03,685 | INFO | Generating Company 173/500: Gutierrez Group
+2026-10-31 23:34:03,691 | INFO | Generating Company 174/500: Gutierrez-Lopez
+2026-10-31 23:34:03,700 | INFO | Generating Company 175/500: Guzman, Hoffman and Baldwin
+2026-10-31 23:34:03,717 | INFO | Generating Company 176/500: Hale, Myers and Larson
+2026-10-31 23:34:03,728 | INFO | Generating Company 177/500: Hall, Baker and Moody
+2026-10-31 23:34:03,744 | INFO | Generating Company 178/500: Hall, Hansen and Barnett
+2026-10-31 23:34:03,748 | INFO | Generating Company 179/500: Hancock Inc
+2026-10-31 23:34:03,756 | INFO | Generating Company 180/500: Hancock and Sons
+2026-10-31 23:34:03,774 | INFO | Generating Company 181/500: Harper and Sons
+2026-10-31 23:34:03,777 | INFO | Generating Company 182/500: Harper, Smith and Buchanan
+2026-10-31 23:34:03,800 | INFO | Generating Company 183/500: Harrell LLC
+2026-10-31 23:34:03,808 | INFO | Generating Company 184/500: Harris, Collins and Carney
+2026-10-31 23:34:03,829 | INFO | Generating Company 185/500: Harris-Walters
+2026-10-31 23:34:03,838 | INFO | Generating Company 186/500: Harrison, Johnson and Roberts
+2026-10-31 23:34:03,853 | INFO | Generating Company 187/500: Harrison-Alexander
+2026-10-31 23:34:03,867 | INFO | Generating Company 188/500: Hartman, Romero and Smith
+2026-10-31 23:34:03,889 | INFO | Generating Company 189/500: Harvey PLC
+2026-10-31 23:34:03,902 | INFO | Generating Company 190/500: Harvey, Davis and Crane
+2026-10-31 23:34:03,905 | INFO | Generating Company 191/500: Harvey-Allen
+2026-10-31 23:34:03,927 | INFO | Generating Company 192/500: Hayes LLC
+2026-10-31 23:34:03,932 | INFO | Generating Company 193/500: Hayes and Sons
+2026-10-31 23:34:03,941 | INFO | Generating Company 194/500: Henderson, Cox and Cox
+2026-10-31 23:34:03,944 | INFO | Generating Company 195/500: Henderson, Ramirez and Lewis
+2026-10-31 23:34:03,964 | INFO | Generating Company 196/500: Henderson-Bernard
+2026-10-31 23:34:03,967 | INFO | Generating Company 197/500: Henry Group
+2026-10-31 23:34:03,990 | INFO | Generating Company 198/500: Hensley, Powell and David
+2026-10-31 23:34:03,992 | INFO | Generating Company 199/500: Herman-Walker
+2026-10-31 23:34:03,995 | INFO | Generating Company 200/500: Hernandez Inc
+2026-10-31 23:34:03,999 | INFO | Generating Company 201/500: Hernandez Ltd
+2026-10-31 23:34:04,015 | INFO | Generating Company 202/500: Hernandez PLC
+2026-10-31 23:34:04,026 | INFO | Generating Company 203/500: Hernandez, Martinez and Weber
+2026-10-31 23:34:04,034 | INFO | Generating Company 204/500: Hernandez, Thompson and Boyd
+2026-10-31 23:34:04,036 | INFO | Generating Company 205/500: Hernandez-Jones
+2026-10-31 23:34:04,040 | INFO | Generating Company 206/500: Hickman Ltd
+2026-10-31 23:34:04,043 | INFO | Generating Company 207/500: Hicks, Bullock and Bailey
+2026-10-31 23:34:04,046 | INFO | Generating Company 208/500: Hicks-Hill
+2026-10-31 23:34:04,051 | INFO | Generating Company 209/500: Higgins, Strickland and Martin
+2026-10-31 23:34:04,071 | INFO | Generating Company 210/500: Hill Inc
+2026-10-31 23:34:04,084 | INFO | Generating Company 211/500: Hoffman, Baker and Richards
+2026-10-31 23:34:04,095 | INFO | Generating Company 212/500: Hoffman, Santiago and Jenkins
+2026-10-31 23:34:04,108 | INFO | Generating Company 213/500: Holmes, Williams and Wright
+2026-10-31 23:34:04,110 | INFO | Generating Company 214/500: Holt-Torres
+2026-10-31 23:34:04,119 | INFO | Generating Company 215/500: Hooper PLC
+2026-10-31 23:34:04,132 | INFO | Generating Company 216/500: Hoover-Campbell
+2026-10-31 23:34:04,150 | INFO | Generating Company 217/500: House-Glover
+2026-10-31 23:34:04,168 | INFO | Generating Company 218/500: Howard-Jordan
+2026-10-31 23:34:04,174 | INFO | Generating Company 219/500: Howell and Sons
+2026-10-31 23:34:04,179 | INFO | Generating Company 220/500: Huang, Cole and Pacheco
+2026-10-31 23:34:04,183 | INFO | Generating Company 221/500: Hughes Inc
+2026-10-31 23:34:04,187 | INFO | Generating Company 222/500: Hughes-Alvarado
+2026-10-31 23:34:04,191 | INFO | Generating Company 223/500: Hurst, Freeman and Nelson
+2026-10-31 23:34:04,207 | INFO | Generating Company 224/500: Jackson, Miller and Robertson
+2026-10-31 23:34:04,226 | INFO | Generating Company 225/500: Jackson-Lawson
+2026-10-31 23:34:04,239 | INFO | Generating Company 226/500: Jackson-Meza
+2026-10-31 23:34:04,242 | INFO | Generating Company 227/500: James Group
+2026-10-31 23:34:04,251 | INFO | Generating Company 228/500: James, Stewart and Higgins
+2026-10-31 23:34:04,268 | INFO | Generating Company 229/500: Jimenez Ltd
+2026-10-31 23:34:04,276 | INFO | Generating Company 230/500: Jimenez, Glass and Stone
+2026-10-31 23:34:04,290 | INFO | Generating Company 231/500: Johnson, Miller and King
+2026-10-31 23:34:04,293 | INFO | Generating Company 232/500: Johnson-Carlson
+2026-10-31 23:34:04,297 | INFO | Generating Company 233/500: Johnson-Doyle
+2026-10-31 23:34:04,319 | INFO | Generating Company 234/500: Johnson-Rogers
+2026-10-31 23:34:04,332 | INFO | Generating Company 235/500: Johnson-Wood
+2026-10-31 23:34:04,342 | INFO | Generating Company 236/500: Johnston, Sanchez and Kennedy
+2026-10-31 23:34:04,352 | INFO | Generating Company 237/500: Johnston-Hines
+2026-10-31 23:34:04,365 | INFO | Generating Company 238/500: Johnston-Odonnell
+2026-10-31 23:34:04,381 | INFO | Generating Company 239/500: Jones Inc
+2026-10-31 23:34:04,399 | INFO | Generating Company 240/500: Jones LLC
+2026-10-31 23:34:04,415 | INFO | Generating Company 241/500: Jones PLC
+2026-10-31 23:34:04,428 | INFO | Generating Company 242/500: Jones and Sons
+2026-10-31 23:34:04,435 | INFO | Generating Company 243/500: Jones-Fox
+2026-10-31 23:34:04,452 | INFO | Generating Company 244/500: Jones-Hensley
+2026-10-31 23:34:04,457 | INFO | Generating Company 245/500: Jones-Lin
+2026-10-31 23:34:04,477 | INFO | Generating Company 246/500: Jones-Soto
+2026-10-31 23:34:04,479 | INFO | Generating Company 247/500: Jones-Young
+2026-10-31 23:34:04,481 | INFO | Generating Company 248/500: Joyce, Wilson and Lam
+2026-10-31 23:34:04,484 | INFO | Generating Company 249/500: Kane PLC
+2026-10-31 23:34:04,505 | INFO | Generating Company 250/500: Kelley, Nguyen and Vang
+2026-10-31 23:34:04,522 | INFO | Generating Company 251/500: Kelly-Norman
+2026-10-31 23:34:04,541 | INFO | Generating Company 252/500: Kennedy, Johnson and Lucas
+2026-10-31 23:34:04,553 | INFO | Generating Company 253/500: Kerr-Evans
+2026-10-31 23:34:04,569 | INFO | Generating Company 254/500: Kim Inc
+2026-10-31 23:34:04,571 | INFO | Generating Company 255/500: Kim, Gonzales and Mills
+2026-10-31 23:34:04,587 | INFO | Generating Company 256/500: King-Martinez
+2026-10-31 23:34:04,599 | INFO | Generating Company 257/500: King-Miller
+2026-10-31 23:34:04,602 | INFO | Generating Company 258/500: King-Smith
+2026-10-31 23:34:04,607 | INFO | Generating Company 259/500: King-York
+2026-10-31 23:34:04,631 | INFO | Generating Company 260/500: Lam LLC
+2026-10-31 23:34:04,651 | INFO | Generating Company 261/500: Lamb, Martin and Kim
+2026-10-31 23:34:04,659 | INFO | Generating Company 262/500: Larson-Holloway
+2026-10-31 23:34:04,662 | INFO | Generating Company 263/500: Lawson, Morris and Ramos
+2026-10-31 23:34:04,665 | INFO | Generating Company 264/500: Le, Lewis and Hayes
+2026-10-31 23:34:04,677 | INFO | Generating Company 265/500: Lee, Horton and Snyder
+2026-10-31 23:34:04,681 | INFO | Generating Company 266/500: Lee-Cooke
+2026-10-31 23:34:04,686 | INFO | Generating Company 267/500: Lee-Davis
+2026-10-31 23:34:04,701 | INFO | Generating Company 268/500: Lewis, Kennedy and Santana
+2026-10-31 23:34:04,707 | INFO | Generating Company 269/500: Lewis-Murphy
+2026-10-31 23:34:04,727 | INFO | Generating Company 270/500: Li-Thompson
+2026-10-31 23:34:04,729 | INFO | Generating Company 271/500: Lloyd, Mckinney and Collins
+2026-10-31 23:34:04,752 | INFO | Generating Company 272/500: Lopez, Jacobs and Mason
+2026-10-31 23:34:04,763 | INFO | Generating Company 273/500: Lopez-Martinez
+2026-10-31 23:34:04,774 | INFO | Generating Company 274/500: Lowery-Kennedy
+2026-10-31 23:34:04,779 | INFO | Generating Company 275/500: Lucas, Parker and Alexander
+2026-10-31 23:34:04,783 | INFO | Generating Company 276/500: Lyons-Bender
+2026-10-31 23:34:04,787 | INFO | Generating Company 277/500: Manning Group
+2026-10-31 23:34:04,798 | INFO | Generating Company 278/500: Marks, Cook and Aguilar
+2026-10-31 23:34:04,814 | INFO | Generating Company 279/500: Marshall, Dominguez and Welch
+2026-10-31 23:34:04,825 | INFO | Generating Company 280/500: Marshall-Elliott
+2026-10-31 23:34:04,828 | INFO | Generating Company 281/500: Marshall-Petersen
+2026-10-31 23:34:04,836 | INFO | Generating Company 282/500: Martin, Rose and Obrien
+2026-10-31 23:34:04,843 | INFO | Generating Company 283/500: Martinez, Richardson and Curry
+2026-10-31 23:34:04,863 | INFO | Generating Company 284/500: Martinez-Dudley
+2026-10-31 23:34:04,869 | INFO | Generating Company 285/500: Matthews, Smith and Hubbard
+2026-10-31 23:34:04,881 | INFO | Generating Company 286/500: May-Ross
+2026-10-31 23:34:04,897 | INFO | Generating Company 287/500: Mccall, Hanson and Alvarado
+2026-10-31 23:34:04,909 | INFO | Generating Company 288/500: Mccarthy Inc
+2026-10-31 23:34:04,916 | INFO | Generating Company 289/500: Mcclain, Miller and Henderson
+2026-10-31 23:34:04,930 | INFO | Generating Company 290/500: Mcclure, Ward and Lee
+2026-10-31 23:34:04,935 | INFO | Generating Company 291/500: Mcdaniel Group
+2026-10-31 23:34:04,938 | INFO | Generating Company 292/500: Mcdaniel, Bentley and Mclaughlin
+2026-10-31 23:34:04,962 | INFO | Generating Company 293/500: Mckee, Gardner and Davenport
+2026-10-31 23:34:04,974 | INFO | Generating Company 294/500: Mckee-Lee
+2026-10-31 23:34:04,979 | INFO | Generating Company 295/500: Meadows PLC
+2026-10-31 23:34:04,982 | INFO | Generating Company 296/500: Medina-Navarro
+2026-10-31 23:34:04,991 | INFO | Generating Company 297/500: Mendez and Sons
+2026-10-31 23:34:05,002 | INFO | Generating Company 298/500: Miller Ltd
+2026-10-31 23:34:05,005 | INFO | Generating Company 299/500: Miller, Harrell and Reese
+2026-10-31 23:34:05,023 | INFO | Generating Company 300/500: Miller, Hernandez and Reyes
+2026-10-31 23:34:05,028 | INFO | Generating Company 301/500: Miller, Lucas and Williams
+2026-10-31 23:34:05,047 | INFO | Generating Company 302/500: Miller, Murphy and Craig
+2026-10-31 23:34:05,056 | INFO | Generating Company 303/500: Miller, Ramos and Coleman
+2026-10-31 23:34:05,076 | INFO | Generating Company 304/500: Miller-Wright
+2026-10-31 23:34:05,100 | INFO | Generating Company 305/500: Mitchell, Nelson and Flores
+2026-10-31 23:34:05,111 | INFO | Generating Company 306/500: Mitchell-Jordan
+2026-10-31 23:34:05,115 | INFO | Generating Company 307/500: Monroe-Carpenter
+2026-10-31 23:34:05,131 | INFO | Generating Company 308/500: Moody-Taylor
+2026-10-31 23:34:05,135 | INFO | Generating Company 309/500: Moon-White
+2026-10-31 23:34:05,139 | INFO | Generating Company 310/500: Moore Group
+2026-10-31 23:34:05,142 | INFO | Generating Company 311/500: Moore-Bass
+2026-10-31 23:34:05,146 | INFO | Generating Company 312/500: Moore-Collins
+2026-10-31 23:34:05,149 | INFO | Generating Company 313/500: Morales, Thomas and Schultz
+2026-10-31 23:34:05,158 | INFO | Generating Company 314/500: Morales-Jones
+2026-10-31 23:34:05,163 | INFO | Generating Company 315/500: Morgan-French
+2026-10-31 23:34:05,172 | INFO | Generating Company 316/500: Morgan-Lopez
+2026-10-31 23:34:05,186 | INFO | Generating Company 317/500: Morgan-Schwartz
+2026-10-31 23:34:05,203 | INFO | Generating Company 318/500: Morris, Thompson and Williams
+2026-10-31 23:34:05,218 | INFO | Generating Company 319/500: Morrison Ltd
+2026-10-31 23:34:05,232 | INFO | Generating Company 320/500: Morton-Chase
+2026-10-31 23:34:05,238 | INFO | Generating Company 321/500: Mullen, Brewer and Hernandez
+2026-10-31 23:34:05,241 | INFO | Generating Company 322/500: Navarro-Munoz
+2026-10-31 23:34:05,256 | INFO | Generating Company 323/500: Nelson, Morton and Medina
+2026-10-31 23:34:05,277 | INFO | Generating Company 324/500: Newton and Sons
+2026-10-31 23:34:05,296 | INFO | Generating Company 325/500: Newton, Moore and Perry
+2026-10-31 23:34:05,316 | INFO | Generating Company 326/500: Nolan and Sons
+2026-10-31 23:34:05,333 | INFO | Generating Company 327/500: Nolan-Flynn
+2026-10-31 23:34:05,342 | INFO | Generating Company 328/500: Novak PLC
+2026-10-31 23:34:05,350 | INFO | Generating Company 329/500: Novak and Sons
+2026-10-31 23:34:05,362 | INFO | Generating Company 330/500: Ortiz Ltd
+2026-10-31 23:34:05,366 | INFO | Generating Company 331/500: Ortiz-Morgan
+2026-10-31 23:34:05,378 | INFO | Generating Company 332/500: Osborn, Gaines and Davis
+2026-10-31 23:34:05,384 | INFO | Generating Company 333/500: Parker, Ortiz and Powell
+2026-10-31 23:34:05,393 | INFO | Generating Company 334/500: Parsons-Hall
+2026-10-31 23:34:05,396 | INFO | Generating Company 335/500: Patterson, Smith and Jones
+2026-10-31 23:34:05,401 | INFO | Generating Company 336/500: Patton-Jenkins
+2026-10-31 23:34:05,416 | INFO | Generating Company 337/500: Paul-Kline
+2026-10-31 23:34:05,432 | INFO | Generating Company 338/500: Perez Inc
+2026-10-31 23:34:05,436 | INFO | Generating Company 339/500: Perez-White
+2026-10-31 23:34:05,455 | INFO | Generating Company 340/500: Perry-Davis
+2026-10-31 23:34:05,466 | INFO | Generating Company 341/500: Peterson-Beard
+2026-10-31 23:34:05,484 | INFO | Generating Company 342/500: Phillips, Spence and Barrett
+2026-10-31 23:34:05,501 | INFO | Generating Company 343/500: Phillips, Wagner and Jordan
+2026-10-31 23:34:05,505 | INFO | Generating Company 344/500: Pierce, Bell and Chavez
+2026-10-31 23:34:05,516 | INFO | Generating Company 345/500: Pollard and Sons
+2026-10-31 23:34:05,527 | INFO | Generating Company 346/500: Pollard, Simpson and Johnson
+2026-10-31 23:34:05,536 | INFO | Generating Company 347/500: Powell LLC
+2026-10-31 23:34:05,557 | INFO | Generating Company 348/500: Price LLC
+2026-10-31 23:34:05,571 | INFO | Generating Company 349/500: Pugh, Henderson and Moon
+2026-10-31 23:34:05,578 | INFO | Generating Company 350/500: Ramirez Group
+2026-10-31 23:34:05,588 | INFO | Generating Company 351/500: Ramirez, Strickland and Washington
+2026-10-31 23:34:05,591 | INFO | Generating Company 352/500: Ramirez-Bean
+2026-10-31 23:34:05,600 | INFO | Generating Company 353/500: Ramos, Nelson and Fischer
+2026-10-31 23:34:05,602 | INFO | Generating Company 354/500: Ramsey, Whitney and Coffey
+2026-10-31 23:34:05,620 | INFO | Generating Company 355/500: Rangel LLC
+2026-10-31 23:34:05,623 | INFO | Generating Company 356/500: Rasmussen LLC
+2026-10-31 23:34:05,644 | INFO | Generating Company 357/500: Reed Group
+2026-10-31 23:34:05,667 | INFO | Generating Company 358/500: Reed Inc
+2026-10-31 23:34:05,673 | INFO | Generating Company 359/500: Reid Group
+2026-10-31 23:34:05,675 | INFO | Generating Company 360/500: Reid, Ferguson and Sanchez
+2026-10-31 23:34:05,692 | INFO | Generating Company 361/500: Reid-Poole
+2026-10-31 23:34:05,714 | INFO | Generating Company 362/500: Reyes, Chase and Jenkins
+2026-10-31 23:34:05,728 | INFO | Generating Company 363/500: Reynolds Ltd
+2026-10-31 23:34:05,756 | INFO | Generating Company 364/500: Richards-Carson
+2026-10-31 23:34:05,760 | INFO | Generating Company 365/500: Richardson, Farmer and Andrews
+2026-10-31 23:34:05,764 | INFO | Generating Company 366/500: Riggs PLC
+2026-10-31 23:34:05,792 | INFO | Generating Company 367/500: Rivera, Johnson and Wiley
+2026-10-31 23:34:05,796 | INFO | Generating Company 368/500: Rivera, Martinez and Richardson
+2026-10-31 23:34:05,814 | INFO | Generating Company 369/500: Roberts-Landry
+2026-10-31 23:34:05,818 | INFO | Generating Company 370/500: Roberts-Sullivan
+2026-10-31 23:34:05,823 | INFO | Generating Company 371/500: Robertson-Hays
+2026-10-31 23:34:05,830 | INFO | Generating Company 372/500: Robinson, Jones and Welch
+2026-10-31 23:34:05,852 | INFO | Generating Company 373/500: Robinson-Brock
+2026-10-31 23:34:05,854 | INFO | Generating Company 374/500: Robinson-Lee
+2026-10-31 23:34:05,863 | INFO | Generating Company 375/500: Rodriguez LLC
+2026-10-31 23:34:05,866 | INFO | Generating Company 376/500: Rodriguez, Brennan and Garrison
+2026-10-31 23:34:05,870 | INFO | Generating Company 377/500: Rodriguez, Figueroa and Sanchez
+2026-10-31 23:34:05,874 | INFO | Generating Company 378/500: Rodriguez-Graham
+2026-10-31 23:34:05,878 | INFO | Generating Company 379/500: Rodriguez-Hall
+2026-10-31 23:34:05,887 | INFO | Generating Company 380/500: Rodriguez-Johnson
+2026-10-31 23:34:05,910 | INFO | Generating Company 381/500: Romero, Gonzalez and Brooks
+2026-10-31 23:34:05,932 | INFO | Generating Company 382/500: Rosales, Mitchell and Hines
+2026-10-31 23:34:05,935 | INFO | Generating Company 383/500: Ross LLC
+2026-10-31 23:34:05,945 | INFO | Generating Company 384/500: Ross, Robinson and Bright
+2026-10-31 23:34:05,957 | INFO | Generating Company 385/500: Rowe Group
+2026-10-31 23:34:05,959 | INFO | Generating Company 386/500: Ruiz Ltd
+2026-10-31 23:34:05,982 | INFO | Generating Company 387/500: Russell Group
+2026-10-31 23:34:06,002 | INFO | Generating Company 388/500: Russell-Daniels
+2026-10-31 23:34:06,007 | INFO | Generating Company 389/500: Ryan PLC
+2026-10-31 23:34:06,019 | INFO | Generating Company 390/500: Salazar-Ball
+2026-10-31 23:34:06,025 | INFO | Generating Company 391/500: Sanchez, Wheeler and Harvey
+2026-10-31 23:34:06,029 | INFO | Generating Company 392/500: Sanders-Espinoza
+2026-10-31 23:34:06,030 | INFO | Generating Company 393/500: Sandoval-Cunningham
+2026-10-31 23:34:06,048 | INFO | Generating Company 394/500: Sanford, Rivera and Garcia
+2026-10-31 23:34:06,052 | INFO | Generating Company 395/500: Santana-Byrd
+2026-10-31 23:34:06,069 | INFO | Generating Company 396/500: Schmidt PLC
+2026-10-31 23:34:06,078 | INFO | Generating Company 397/500: Schmidt, Hansen and Stewart
+2026-10-31 23:34:06,101 | INFO | Generating Company 398/500: Schmitt PLC
+2026-10-31 23:34:06,123 | INFO | Generating Company 399/500: Schroeder-Kramer
+2026-10-31 23:34:06,138 | INFO | Generating Company 400/500: Scott Ltd
+2026-10-31 23:34:06,146 | INFO | Generating Company 401/500: Scott and Sons
+2026-10-31 23:34:06,163 | INFO | Generating Company 402/500: Shaw, Nelson and Martin
+2026-10-31 23:34:06,179 | INFO | Generating Company 403/500: Sheppard LLC
+2026-10-31 23:34:06,194 | INFO | Generating Company 404/500: Shields, Cochran and Adams
+2026-10-31 23:34:06,218 | INFO | Generating Company 405/500: Short-Garcia
+2026-10-31 23:34:06,222 | INFO | Generating Company 406/500: Simmons, Meadows and Griffin
+2026-10-31 23:34:06,225 | INFO | Generating Company 407/500: Smith PLC
+2026-10-31 23:34:06,229 | INFO | Generating Company 408/500: Smith and Sons
+2026-10-31 23:34:06,250 | INFO | Generating Company 409/500: Smith, Garrison and Thomas
+2026-10-31 23:34:06,262 | INFO | Generating Company 410/500: Smith, Gilmore and Johnston
+2026-10-31 23:34:06,278 | INFO | Generating Company 411/500: Smith, Montoya and Evans
+2026-10-31 23:34:06,280 | INFO | Generating Company 412/500: Smith-Bell
+2026-10-31 23:34:06,303 | INFO | Generating Company 413/500: Smith-Bowen
+2026-10-31 23:34:06,315 | INFO | Generating Company 414/500: Smith-Frost
+2026-10-31 23:34:06,332 | INFO | Generating Company 415/500: Smith-Grimes
+2026-10-31 23:34:06,336 | INFO | Generating Company 416/500: Snyder, Campos and Callahan
+2026-10-31 23:34:06,359 | INFO | Generating Company 417/500: Sparks, Jackson and Miller
+2026-10-31 23:34:06,376 | INFO | Generating Company 418/500: Spence PLC
+2026-10-31 23:34:06,379 | INFO | Generating Company 419/500: Spencer-Garcia
+2026-10-31 23:34:06,388 | INFO | Generating Company 420/500: Spencer-Lee
+2026-10-31 23:34:06,399 | INFO | Generating Company 421/500: Stafford Inc
+2026-10-31 23:34:06,411 | INFO | Generating Company 422/500: Stanley PLC
+2026-10-31 23:34:06,423 | INFO | Generating Company 423/500: Stanley, Tucker and Lee
+2026-10-31 23:34:06,427 | INFO | Generating Company 424/500: Stein-Silva
+2026-10-31 23:34:06,447 | INFO | Generating Company 425/500: Stewart Ltd
+2026-10-31 23:34:06,451 | INFO | Generating Company 426/500: Strickland-Palmer
+2026-10-31 23:34:06,454 | INFO | Generating Company 427/500: Strickland-Shaw
+2026-10-31 23:34:06,468 | INFO | Generating Company 428/500: Suarez LLC
+2026-10-31 23:34:06,480 | INFO | Generating Company 429/500: Suarez, Shields and Hill
+2026-10-31 23:34:06,491 | INFO | Generating Company 430/500: Tapia, Vaughn and Lee
+2026-10-31 23:34:06,512 | INFO | Generating Company 431/500: Taylor and Sons
+2026-10-31 23:34:06,535 | INFO | Generating Company 432/500: Taylor, Wright and Davidson
+2026-10-31 23:34:06,550 | INFO | Generating Company 433/500: Terry-Martinez
+2026-10-31 23:34:06,554 | INFO | Generating Company 434/500: Thomas and Sons
+2026-10-31 23:34:06,573 | INFO | Generating Company 435/500: Thomas, Lee and Greene
+2026-10-31 23:34:06,575 | INFO | Generating Company 436/500: Thomas, Murray and King
+2026-10-31 23:34:06,579 | INFO | Generating Company 437/500: Thompson Ltd
+2026-10-31 23:34:06,592 | INFO | Generating Company 438/500: Thompson-James
+2026-10-31 23:34:06,596 | INFO | Generating Company 439/500: Torres Group
+2026-10-31 23:34:06,601 | INFO | Generating Company 440/500: Torres-Pope
+2026-10-31 23:34:06,605 | INFO | Generating Company 441/500: Tran Inc
+2026-10-31 23:34:06,609 | INFO | Generating Company 442/500: Tran, Jordan and Williams
+2026-10-31 23:34:06,613 | INFO | Generating Company 443/500: Turner, Ortiz and Taylor
+2026-10-31 23:34:06,621 | INFO | Generating Company 444/500: Turner, Riggs and Roman
+2026-10-31 23:34:06,639 | INFO | Generating Company 445/500: Turner, Schneider and Johnson
+2026-10-31 23:34:06,642 | INFO | Generating Company 446/500: Valentine, Joyce and Murray
+2026-10-31 23:34:06,653 | INFO | Generating Company 447/500: Valentine-Holland
+2026-10-31 23:34:06,655 | INFO | Generating Company 448/500: Vargas Ltd
+2026-10-31 23:34:06,666 | INFO | Generating Company 449/500: Wagner-King
+2026-10-31 23:34:06,678 | INFO | Generating Company 450/500: Walker LLC
+2026-10-31 23:34:06,690 | INFO | Generating Company 451/500: Walker Ltd
+2026-10-31 23:34:06,714 | INFO | Generating Company 452/500: Walker, Hernandez and Baker
+2026-10-31 23:34:06,718 | INFO | Generating Company 453/500: Walker-Flores
+2026-10-31 23:34:06,725 | INFO | Generating Company 454/500: Walker-Jones
+2026-10-31 23:34:06,729 | INFO | Generating Company 455/500: Walsh LLC
+2026-10-31 23:34:06,733 | INFO | Generating Company 456/500: Walter, Edwards and Rios
+2026-10-31 23:34:06,740 | INFO | Generating Company 457/500: Ware and Sons
+2026-10-31 23:34:06,749 | INFO | Generating Company 458/500: Warner-Gibson
+2026-10-31 23:34:06,768 | INFO | Generating Company 459/500: Washington, Hardy and Bray
+2026-10-31 23:34:06,778 | INFO | Generating Company 460/500: Washington, Ryan and Cummings
+2026-10-31 23:34:06,793 | INFO | Generating Company 461/500: Watson, Anderson and Brown
+2026-10-31 23:34:06,799 | INFO | Generating Company 462/500: Watts, Robinson and Nguyen
+2026-10-31 23:34:06,819 | INFO | Generating Company 463/500: Webster Inc
+2026-10-31 23:34:06,823 | INFO | Generating Company 464/500: Welch-Hogan
+2026-10-31 23:34:06,829 | INFO | Generating Company 465/500: Wells Inc
+2026-10-31 23:34:06,841 | INFO | Generating Company 466/500: West, Henderson and Ramirez
+2026-10-31 23:34:06,845 | INFO | Generating Company 467/500: White Ltd
+2026-10-31 23:34:06,865 | INFO | Generating Company 468/500: White-Estes
+2026-10-31 23:34:06,880 | INFO | Generating Company 469/500: White-Green
+2026-10-31 23:34:06,884 | INFO | Generating Company 470/500: White-Lewis
+2026-10-31 23:34:06,903 | INFO | Generating Company 471/500: Wilkerson-Arias
+2026-10-31 23:34:06,922 | INFO | Generating Company 472/500: Wilkerson-Day
+2026-10-31 23:34:06,924 | INFO | Generating Company 473/500: Williams Inc
+2026-10-31 23:34:06,928 | INFO | Generating Company 474/500: Williams PLC
+2026-10-31 23:34:06,937 | INFO | Generating Company 475/500: Williams and Sons
+2026-10-31 23:34:06,949 | INFO | Generating Company 476/500: Williams, Johnson and Wright
+2026-10-31 23:34:06,972 | INFO | Generating Company 477/500: Williams, Logan and Camacho
+2026-10-31 23:34:06,975 | INFO | Generating Company 478/500: Williams, Mccoy and Cook
+2026-10-31 23:34:06,982 | INFO | Generating Company 479/500: Williams-Brown
+2026-10-31 23:34:07,005 | INFO | Generating Company 480/500: Williams-Cook
+2026-10-31 23:34:07,019 | INFO | Generating Company 481/500: Williams-Hughes
+2026-10-31 23:34:07,022 | INFO | Generating Company 482/500: Willis and Sons
+2026-10-31 23:34:07,035 | INFO | Generating Company 483/500: Wilson, Pena and Rich
+2026-10-31 23:34:07,040 | INFO | Generating Company 484/500: Wilson-Jimenez
+2026-10-31 23:34:07,046 | INFO | Generating Company 485/500: Wilson-Jones
+2026-10-31 23:34:07,048 | INFO | Generating Company 486/500: Winters, Newman and Brown
+2026-10-31 23:34:07,068 | INFO | Generating Company 487/500: Wise, Conley and Stephenson
+2026-10-31 23:34:07,071 | INFO | Generating Company 488/500: Wolf-Harris
+2026-10-31 23:34:07,089 | INFO | Generating Company 489/500: Wood, Hunter and Peterson
+2026-10-31 23:34:07,101 | INFO | Generating Company 490/500: Wood, Ramos and Sampson
+2026-10-31 23:34:07,114 | INFO | Generating Company 491/500: Wood, Tran and Cooper
+2026-10-31 23:34:07,126 | INFO | Generating Company 492/500: Woods, Calhoun and Schmidt
+2026-10-31 23:34:07,133 | INFO | Generating Company 493/500: Wright and Sons
+2026-10-31 23:34:07,135 | INFO | Generating Company 494/500: Wright, Garcia and Deleon
+2026-10-31 23:34:07,137 | INFO | Generating Company 495/500: Yates, Ramsey and Pittman
+2026-10-31 23:34:07,152 | INFO | Generating Company 496/500: Young Ltd
+2026-10-31 23:34:07,170 | INFO | Generating Company 497/500: Young-Allen
+2026-10-31 23:34:07,172 | INFO | Generating Company 498/500: Young-Martinez
+2026-10-31 23:34:07,195 | INFO | Generating Company 499/500: Yu Inc
+2026-10-31 23:34:07,216 | INFO | Generating Company 500/500: Zhang PLC
+2026-10-31 23:34:07,429 | INFO | Running validation checks...
+2026-10-31 23:34:15,261 | INFO | All validation checks passed!
+2026-10-31 23:34:16,062 | INFO | ==================================================
+2026-10-31 23:34:16,062 | INFO | DATASET GENERATED SUCCESSFULLY!
+2026-10-31 23:34:16,062 | INFO | ==================================================
+2026-10-31 23:34:16,064 | INFO | Total Companies       : 500
+2026-10-31 23:34:16,064 | INFO | Total Employees       : 100,605
+2026-10-31 23:34:16,065 | INFO | Minimum Employees     : 100
+2026-10-31 23:34:16,065 | INFO | Maximum Employees     : 300
+2026-10-31 23:34:16,065 | INFO | Average Employees     : 201.21
+2026-10-31 23:34:16,066 | INFO | Total Departments     : 7
+2026-10-31 23:34:16,069 | INFO | Unique Designations   : 55
+2026-10-31 23:34:16,070 | INFO | Unique Countries      : 6
+2026-10-31 23:34:16,072 | INFO | Unique Industries     : 15
+2026-10-31 23:34:16,074 | INFO | Unique Teams          : 38
+2026-10-31 23:34:16,074 | INFO | Department Distribution:
+2026-10-31 23:34:16,077 | INFO | Department
+Human Resources    16775
+Engineering        16742
+Sales              16688
+Finance            16677
+Marketing          16659
+Operations         16564
+Executive            500
+Name: count, dtype: int64
+2026-10-31 23:34:16,077 | INFO | Designation Distribution:
+2026-10-31 23:34:16,081 | INFO | Designation
+HR Executive                           4858
+HR Business Partner                    4827
+Senior Financial Analyst               4820
+Accountant                             4791
+Operations Analyst                     4752
+Operations Executive                   4749
+Process Associate                      4740
+Recruiter                              4735
+Financial Analyst                      4727
+Social Media Intern                    3659
+Marketing Analyst                      3557
+Content Specialist                     3554
+Marketing Executive                    3552
+Account Executive                      2942
+Software Engineer                      2905
+Sales Representative                   2893
+Technical Lead                         2889
+Senior Software Engineer               2887
+Sales Operations Associate             2885
+Client Success Associate               2865
+Associate Engineer                     2854
+Junior Software Engineer               2847
+Business Development Representative    2765
+CEO                                     500
+VP Engineering                          500
+VP Sales                                500
+HR Director                             500
+Finance Director                        500
+Marketing Director                      500
+Operations Director                     500
+Accounting Manager                      498
+Supply Chain Manager                    480
+HR Operations Manager                   479
+Infrastructure Manager                  471
+Sales Operations Manager                471
+HR Manager                              470
+Software Development Manager            466
+Sales Manager                           466
+Regional Sales Manager                  465
+Financial Planning Manager              464
+Engineering Manager                     464
+Regional Operations Manager             459
+QA Manager                              459
+Operations Manager                      456
+Compensation and Benefits Manager       456
+Talent Acquisition Manager              450
+Tax Manager                             445
+Senior Sales Manager                    436
+Finance Manager                         432
+Process Manager                         428
+PR Manager                              378
+Digital Marketing Manager               375
+Brand Manager                           372
+Marketing Manager                       367
+Content Marketing Manager               345
+Name: count, dtype: int64
+2026-10-31 23:34:16,081 | INFO | Seniority Distribution:
+2026-10-31 23:34:16,083 | INFO | Seniority Level
+3     55607
+1     19850
+8     11052
+5      7707
+9      3000
+6      2889
+10      500
+Name: count, dtype: int64
+2026-10-31 23:34:16,083 | INFO | Industry Distribution (by company):
+2026-10-31 23:34:16,088 | INFO | Industry
+Media & Entertainment         46
+Hospitality                   41
+Pharmaceuticals               40
+Automotive                    37
+Consulting                    36
+Education                     36
+Logistics & Transportation    34
+Information Technology        33
+Manufacturing                 33
+Financial Services            32
+Healthcare                    32
+Telecommunications            30
+Retail & E-Commerce           29
+Energy & Utilities            21
+Real Estate                   20
+Name: count, dtype: int64
+2026-10-31 23:34:16,088 | INFO | Sample Records:
+2026-10-31 23:34:16,091 | INFO | Employee ID   Manager ID Company Name   Industry                  Designation Seniority Level  Department    Team/Business Unit   Employee Name                                        Skills/Specialization           City Country                                 Email
+C0001-E00001          NaN Abbott-Munoz Consulting                          CEO              10   Executive      Executive Office   Lindsey Roman        Corporate Strategy; P&L Ownership; Investor Relations East Jessetown     USA   lindsey.roman.1@company0001.example
+C0001-E00002 C0001-E00001 Abbott-Munoz Consulting               VP Engineering               9 Engineering Department Leadership Kimberly Dudley       Budget Ownership; Executive Reporting; Talent Strategy  Robinsonshire     USA kimberly.dudley.2@company0001.example
+C0001-E00003 C0001-E00002 Abbott-Munoz Consulting       Infrastructure Manager               8 Engineering  Security Engineering   Juan Calderon People Management; Application Security; Penetration Testing     Lake Debra     USA   juan.calderon.3@company0001.example
+C0001-E00004 C0001-E00002 Abbott-Munoz Consulting Software Development Manager               8 Engineering  Platform Engineering     Shannon Ray            Coaching & Mentoring; Kubernetes; CI/CD Pipelines   Lake Roberto     USA     shannon.ray.4@company0001.example
+C0001-E00005 C0001-E00002 Abbott-Munoz Consulting       Infrastructure Manager               8 Engineering      Data Engineering     Amber Perez                     Coaching & Mentoring; Data Modeling; SQL       Lisatown     USA     amber.perez.5@company0001.example
+C0001-E00006 C0001-E00002 Abbott-Munoz Consulting       Infrastructure Manager               8 Engineering     Frontend & Mobile      Bobby Hall              Performance Reviews; Android Development; React North Noahstad     USA      bobby.hall.6@company0001.example
+C0001-E00007 C0001-E00002 Abbott-Munoz Consulting       Infrastructure Manager               8 Engineering      Backend Services     Donald Reid                Coaching & Mentoring; REST API Design; Python      East Jill     USA     donald.reid.7@company0001.example
+C0001-E00008 C0001-E00003 Abbott-Munoz Consulting     Senior Software Engineer               5 Engineering  Security Engineering     Jacob Clark   Threat Modeling; Application Security; Penetration Testing     Lake Debra     USA     jacob.clark.8@company0001.example
+C0001-E00009 C0001-E00004 Abbott-Munoz Consulting               Technical Lead               6 Engineering  Platform Engineering    Timothy Wong                                        Kubernetes; Terraform       Lisatown     USA    timothy.wong.9@company0001.example
+C0001-E00010 C0001-E00005 Abbott-Munoz Consulting               Technical Lead               6 Engineering      Data Engineering  Carolyn Daniel                                  ETL Pipelines; Apache Spark  Robinsonshire     USA carolyn.daniel.10@company0001.example
+C0001-E00011 C0001-E00006 Abbott-Munoz Consulting           Associate Engineer               1 Engineering     Frontend & Mobile      James Mayo                       React; Android Development; TypeScript     Lake Debra     USA     james.mayo.11@company0001.example
+C0001-E00012 C0001-E00007 Abbott-Munoz Consulting           Associate Engineer               1 Engineering      Backend Services   Kristin Cohen                                        REST API Design; Java     Lake Debra     USA  kristin.cohen.12@company0001.example
+C0001-E00013 C0001-E00003 Abbott-Munoz Consulting               Technical Lead               6 Engineering  Security Engineering     Patty Perez               IAM; Penetration Testing; Application Security      East Jill     USA    patty.perez.13@company0001.example
+C0001-E00014 C0001-E00004 Abbott-Munoz Consulting               Technical Lead               6 Engineering  Platform Engineering     Ethan Adams                                  Kubernetes; CI/CD Pipelines     Lake Debra     USA    ethan.adams.14@company0001.example
+C0001-E00015 C0001-E00005 Abbott-Munoz Consulting               Technical Lead               6 Engineering      Data Engineering    Tommy Walter                                           ETL Pipelines; SQL East Jessetown     USA   tommy.walter.15@company0001.example
+2026-10-31 23:34:16,092 | INFO | Output File: Synthetic_Company_Employees.csv
+2026-10-31 23:34:16,092 | INFO | ==================================================
+2026-10-31 23:34:16,092 | INFO | Output File: Employees_Database.csv
+2026-10-31 23:34:16,092 | INFO | ==================================================
